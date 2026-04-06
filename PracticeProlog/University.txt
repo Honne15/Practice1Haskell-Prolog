@@ -1,5 +1,0 @@
-estudiante(1001,juan_perez,outside,0800,1030).
-estudiante(1002,maria_gomez,inside,0915,none).
-estudiante(1003,carlos_lopez,outside,0730,1200).
-estudiante(1004,ana_martinez,inside,1000,none).
-estudiante(1005,luis_rodriguez,outside,0845,1115).
